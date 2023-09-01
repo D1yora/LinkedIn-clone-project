@@ -200,6 +200,17 @@ a {
   margin-right: 10px;
 }
 
+.sidebar-activity {
+  background: #fff;
+  padding: 5px 20px;
+  margin: 12px 0;
+}
+
+.sidebar-activity h3 {
+  color: #777;
+  font-size: 14px;
+}
+
 /* ----------- right-sidebar ------------- */
 .right-sidebar {
   flex-basis: 25%;
